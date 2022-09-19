@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nietzoldb
+- 👋 Hi, I’m @nietzoldb that is my name is Brian
 - 👀 I’m interested in ways of analyzing data and applying statistics to better understand relationships that exist in data.
 - 🌱 I’m currently learning how to do that, lol.
 - 💞️ I’m looking to collaborate on most things!
